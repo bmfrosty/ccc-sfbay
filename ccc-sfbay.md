@@ -1,4 +1,4 @@
-## CURRENT LIST OF CCC-SFBAY MODULES
+## Current list of ccc-sfbay modules
 
 * CCC-SFBAY-01-01
   * Plots in Motion
