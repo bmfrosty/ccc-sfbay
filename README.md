@@ -32,6 +32,9 @@ Please be aware of the constraints implied with this version when writing your c
 
 ## Versioning
 
+#### 0.0.5
+- Ben Longman - 2018-04-08 - Set content type on upload.
+
 #### 0.0.4
 - Ben Longman - 2018-04-08 - Added ccc-anime.  Added Tier.  Separated Footer.  Compile directly to S3.
 
