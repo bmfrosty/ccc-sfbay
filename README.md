@@ -25,11 +25,15 @@ Please be aware of the constraints implied with this version when writing your c
  * Module number
    * Title
    * Writers
+   * Tier
    * APL
    * module duration
    * dmsguild link
 
 ## Versioning
+
+#### 0.0.4
+- Ben Longman - 2018-04-08 - Added ccc-anime.  Added Tier.  Separated Footer.  Compile directly to S3.
 
 #### 0.0.3
 - Ben Longman - 2018-04-08 - Updated README.md

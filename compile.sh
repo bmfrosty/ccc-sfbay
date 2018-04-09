@@ -1,3 +1,5 @@
-cat head.html > site/index.html
-markdown ccc-sfbay.md >> site/index.html
-cat foot.html >> site/index.html
+cat head.html 
+markdown ccc-anime.md
+markdown ccc-sfbay.md
+markdown footer.md
+cat foot.html
