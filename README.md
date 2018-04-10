@@ -32,6 +32,9 @@ Please be aware of the constraints implied with this version when writing your c
 
 ## Versioning
 
+#### 0.0.7
+- Ben Longman - 2018-04-10 - Added some useful links to the bottom.
+
 #### 0.0.6
 - Ben Longman - 2018-04-09 - Brighter link colors to deal with dark background.
 
