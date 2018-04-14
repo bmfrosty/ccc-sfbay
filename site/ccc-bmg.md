@@ -1,117 +1,146 @@
 ## List of ccc-bmg modules updated 2018-04-14 
 * CCC-BMG-01
-  * CORE1-1 A Scream in the Night
+  * A Scream in the Night
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE1-1
 * CCC-BMG-02
-  * CORE1-2 A Cog in the Wheel
+  * A Cog in the Wheel
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE1-2
 * CCC-BMG-03
-  * CORE1-3 A Hole in the World
+  * A Hole in the World
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE1-3
 * CCC-BMG-04
-  * CORE2-1 Tales of Good & Evil
+  * Tales of Good & Evil
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE2-1
 * CCC-BMG-05
-  * CORE2-2 Songs of Law & Chaos
+  * Songs of Law & Chaos
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE2-2
 * CCC-BMG-06
-  * CORE2-3 Edicts of Neutrality
+  * Edicts of Neutrality
   * Tier 1
   * 4 Hours
+  * AltCodes: CORE2-3
 * CCC-BMG-07
-  * HULB1-1 Hulburg Rebuilding
+  * Hulburg Rebuilding
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB1-1
 * CCC-BMG-08
-  * HULB1-2 Hulburg Burning
+  * Hulburg Burning
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB1-2
 * CCC-BMG-09
-  * HULB1-3 Hulburg Rising
+  * Hulburg Rising
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB1-3
 * CCC-BMG-HULB1S
-  * HULB1-S Extinction
+  * Extinction
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB1-S
 * CCC-BMG-10
-  * HILL1-1 Arrival
+  * Arrival
   * Tier 2
   * 4 Hours
+  * AltCodes: HILL1-1
 * CCC-BMG-11
-  * HILL1-2 Exodus
+  * Exodus
   * Tier 2
   * 4 Hours
+  * AltCodes: HILL1-2
 * CCC-BMG-12
-  * HILL1-3 Resurgence
+  * Resurgence
   * Tier 2
   * 4 Hours
+  * AltCodes: HILL1-3
 * CCC-BMG-HILL1S
-  * HILL1-S Onslaught
+  * Onslaught
   * Tier 2
   * 4 Hours
+  * AltCodes: HILL1-S
 * CCC-BMG-13
-  * PHLAN1-1 Sepulture
+  * Sepulture
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN1-1
 * CCC-BMG-14
-  * PHLAN1-2 Enemy of my Enemy
+  * Enemy of my Enemy
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN1-2
 * CCC-BMG-15
-  * PHLAN1-3 Subterfuge
+  * Subterfuge
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN1-3
 * CCC-BMG-PHLAN1S
-  * PHLAN1-S Uprising
+  * Uprising
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN1-S
 * CCC-BMG-16
-  * ELM1-1 The Sage of Cormanthor
+  * The Sage of Cormanthor
   * Tier 2
   * 4 Hours
+  * AltCodes: ELM1-1
 * CCC-BMG-17
-  * ELM1-2 The Lost Sanctum
+  * The Lost Sanctum
   * Tier 2
   * 4 Hours
+  * AltCodes: ELM1-2
 * CCC-BMG-18
-  * ELM1-3 The Battle of Elmwood
+  * The Battle of Elmwood
   * Tier 2
   * 4 Hours
+  * AltCodes: ELM1-3
 * CCC-BMG-19
-  * HULB2-1 Winter’s Frosty Kiss
+  * Winter's Frosty Kiss
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB2-1
 * CCC-BMG-20
-  * HULB2-2 Winter’s Frigid Wrath
+  * Winter's Frigid Wrath
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB2-2
 * CCC-BMG-21
-  * HULB2-3 Winter’s Sharp Bite
+  * Winter's Sharp Bite
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB2-3
 * CCC-BMG-HULB2S
-  * HULB2-S Winter’s Feast
+  * Winter's Feast
   * Tier 2
   * 4 Hours
+  * AltCodes: HULB2-S
 * CCC-BMG-22
-  * PHLAN2-1 Demagogue
+  * Demagogue
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN2-1
 * CCC-BMG-23
-  * PHLAN2-2 Hatemaster
+  * Hatemaster
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN2-2
 * CCC-BMG-24
-  * PHLAN2-3 The Royal We
+  * The Royal We
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN2-3
 * CCC-BMG-PHLAN2S
-  * PHLAN2-S Damnation
+  * Damnation
   * Tier 3
   * 4 Hours
+  * AltCodes: PHLAN2-S

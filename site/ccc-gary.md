@@ -8,7 +8,7 @@
   * Tier 2
   * 2 Hours
 * CCC-GARY-03
-  * Oh, We’re In It Now
+  * Oh, We're In It Now
   * Tier 2
   * 2 Hours
 * CCC-GARY-04

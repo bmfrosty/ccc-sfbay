@@ -4,6 +4,6 @@
   * Tier 1
   * 4 Hours
 * CCC-MACE-02
-  * A Panther’s Peril
+  * A Panther's Peril
   * Tier 1
   * 4 Hours

@@ -34,6 +34,9 @@ Pay special attention to the carriage returns.  Markdown replaces two spaces at 
 
 ## Versioning
 
+#### 0.0.10
+- Ben Longman - 2018-04-14 - Fixed apostrophes, Color Codes, and alt codes for BMG modules.
+
 #### 0.0.9
 - Ben Longman - 2018-04-14 - Added all CCC modules (with tier, lenght, and name) scraped from the Content Catalog PDF.  Heavily massaged.
 
