@@ -1,6 +1,4 @@
-# ccc-sfbay
-
-## How to use
+# How to use
 
 If you want to help with this, you'll need a markdown compiler, and you should be able to test the output in a browser locally.  Whenever you update, please update the version in this file and add some changelogs in the format below.  Also if you add additional formatting (like Tier) please update the formatting section.  
 
@@ -18,13 +16,13 @@ http://daringfireball.net/projects/markdown/
 bmfrosty@STUMP:~/git/ccc-sfbay$
 ```  
 
-Please be aware of the constraints implied with this version when writing your code.  
+Please be aware of the constraints implied with this version when writing your code.   
+Pay special attention to the carriage returns.  Markdown replaces two spaces at the end of a line with a `<br />` - it does not respect the backslash at the end of a line standard that github uses.  
 
-## Formatting
+# Formatting
 
 ## List of (grouping) modules updated (date modified)
-
-* Module number
+* Module number (Use Content Catalog for official module number)
   * Title
   * Writers
   * Tier
@@ -35,6 +33,9 @@ Please be aware of the constraints implied with this version when writing your c
    
 
 ## Versioning
+
+#### 0.0.9
+- Ben Longman - 2018-04-14 - Added all CCC modules (with tier, lenght, and name) scraped from the Content Catalog PDF.  Heavily massaged.
 
 #### 0.0.8
 - Ben Longman - 2018-04-14 - Cleaned up documentation.  Adjusted compile to be more dynamic.  Added dates to ccc-*.md files.
