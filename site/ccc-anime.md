@@ -1,4 +1,4 @@
-## Current list of ccc-anime modules
+## List of ccc-anime modules updated 2018-04-14
 
 * CCC-ANIME1-1
   * Legend of the Sword Bandit Surprise

@@ -22,15 +22,22 @@ Please be aware of the constraints implied with this version when writing your c
 
 ## Formatting
 
- * Module number
-   * Title
-   * Writers
-   * Tier
-   * APL
-   * module duration
-   * dmsguild link
+## List of (grouping) modules updated (date modified)
+
+* Module number
+  * Title
+  * Writers
+  * Tier
+  * APL
+  * module duration
+  * dmsguild link
+  * AltCodes: Code Code Code
+   
 
 ## Versioning
+
+#### 0.0.8
+- Ben Longman - 2018-04-14 - Cleaned up documentation.  Adjusted compile to be more dynamic.  Added dates to ccc-*.md files.
 
 #### 0.0.7
 - Ben Longman - 2018-04-10 - Added some useful links to the bottom.
