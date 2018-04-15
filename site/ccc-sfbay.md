@@ -44,8 +44,7 @@
   * AltCodes: CCC-SFBAY-04-02
 * CCC-SFBAY-04-03
   * Ashen Scar
-  * Written by ?
+  * Written by Iam Pace & William Murakami-Brundage
   * Tier 1
-  * APL ?
+  * APL 3
   * 2 Hours
-  * Further Details to come
