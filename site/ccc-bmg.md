@@ -1,7 +1,7 @@
 ## List of ccc-bmg modules updated 2018-04-14 
 * CCC-BMG-01
   * A Scream in the Night
-  * Written by M. Sean Molley
+  * M. Sean Molley
   * Tier 1
   * APL 1
   * 4 Hours

@@ -9,5 +9,7 @@
   * 4 Hours
 * CCC-ODFC-0103
   * Elder's Eyes Upon You
+  * Darion Smith
   * Tier 3
+  * APL 15
   * 4 Hours

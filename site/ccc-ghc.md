@@ -1,19 +1,27 @@
 ## List of ccc-ghc modules updated 2018-04-14
 * CCC-GHC-01
   * Tharaera Lost
+  * Ed Greenwood & Alex Kammer
   * Tier 2
+  * APL 7 (6 chars)
   * 2 Hours
 * CCC-GHC-02
   * Skulljaw Hill
+  * Ed Greenwood & Alex Kammer
   * Tier 2
+  * APL 7 (6 chars)
   * 2 Hours
 * CCC-GHC-03
   * Facing the Dark
+  * Ed Greenwood & Alex Kammer
   * Tier 2
+  * APL 7 (6 chars)
   * 2 Hours
 * CCC-GHC-04
   * Shade of the Dark
+  * Dave Zajac
   * Tier 2
+  * APL 8
   * 2 Hours
 * CCC-GHC-05
   * Trail of Treachery
