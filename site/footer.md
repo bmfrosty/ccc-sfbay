@@ -3,6 +3,7 @@ Always under construction
 If you have something to add, fork it and make a PR  
 Contact me at @bmfrosty on twitter  
 Useful Links:  
+[WotC's D&D Site](http://dnd.wizards.com/)  
 [Adventurer's League Player's Pack](http://www.dmsguild.com/product/208178/DD-Adventurers-League-Players-Pack)  
 [Adventurer's League DM Pack](http://www.dmsguild.com/product/208179/DD-Adventurers-League-DM-Pack)  
 [Adventurer's League Website](http://dndadventurersleague.org/)  

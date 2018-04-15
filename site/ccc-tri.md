@@ -1,4 +1,4 @@
-## List of ccc-tri modules updated 2018-04-14
+### ccc-tri modules - updated 2018-04-15
 * CCC-TRI-01
   * Into the Darkness
   * Mark Merida
