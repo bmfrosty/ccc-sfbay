@@ -14,3 +14,8 @@ Useful Links:
 [/r/dndnext's wiki's resource list](https://www.reddit.com/r/dndnext/wiki/resourcelist)  
 [Adventuring Log & Online Tools](https://www.alonlinetools.net/)  
 
+* TODO
+   * More dmsguild links
+   * Buy more dmsguild modules for APLs
+   * More AltCodes
+   * Add DDEX/DDAL/DDAO/DDIA/DDEP Modules
