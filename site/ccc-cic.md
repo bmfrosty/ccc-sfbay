@@ -5,21 +5,43 @@
   * Tier 1
   * APL 3
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/199826/CCCCIC01-The-Vault-of-the-Devourer)
 * CCC-CIC-02
   * The Clockwork Laboratory
   * Ben Siekert
   * Tier 2
   * APL 7
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/207980/CCCCIC02-The-Clockwork-Laboratory)
 * CCC-CIC-03
   * The Desolate Undercroft
   * Joe Abboreno and Ben Siekert
   * Tier 2
   * APL 8
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/207993/CCCCIC03-The-Desolate-Undercroft)
 * CCC-CIC-04
   * Best Friends Forever
   * Ben Siekert
   * Tier 2
   * APL 8
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/216389/CCCCIC04-Best-Friends-Forever)
+* CCC-CIC-05
+  * Donum Vitae
+  * Rob Silva
+  * Tier 2
+  * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/238300/CCCCIC05-Donum-Vitae)
+* CCC-CIC-06
+  * End of the Line
+  * Michael Maenza
+  * Tier 1
+  * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/238181/CCCCIC06-End-of-the-Line)
+* CCC-CIC-08
+  * The Last Voyage of the Woolgathering Tidsoptimist
+  * Greg Marks
+  * Tier 1
+  * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-Tidsoptimist)

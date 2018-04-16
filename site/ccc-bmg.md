@@ -187,30 +187,49 @@
   * AltCodes: HULB2-S
 * CCC-BMG-22
   * Demagogue
+  * Robert Alaniz
   * Tier 3
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/230627/CCCBMG22-PHLAN-21-Demagogue)
   * AltCodes: PHLAN2-1
 * CCC-BMG-23
   * Hatemaster
+  * Jen Middleton
   * Tier 3
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/230628/CCCBMG23-PHLAN-22-Hatemaster)
   * AltCodes: PHLAN2-2
 * CCC-BMG-24
   * The Royal We
+  * Eric Menge
   * Tier 3
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/230629/CCCBMG24-PHLAN-23-The-Royal-We)
   * AltCodes: PHLAN2-3
 * CCC-BMG-PHLAN2S
   * Damnation
+  * Anthony Caroselli
   * Tier 3
   * 4 Hours
   * AltCodes: PHLAN2-S
 * CCC-BMG-25
+  * The Spectral Incursion
+  * John Rogers and Shawn Merwin
+  * Tier 1
+  * APL 1
+  * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/239572/CCCBMG25-CORE31-The-Spectral-Incursion)
 * CCC-BMG-26
+  * The Ghostly Infestation
+  * Dan Dillon
+  * Tier 1
+  * APL 2
+  * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/239577/CCCBMG26-CORE-32-The-Ghostly-Infestation)
 * CCC-BMG-27
+  * The Spirited Investigation
+  * Tom Lommel
+  * Tier 1
+  * APL 3
+  * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/239578/CCCBMG27-CORE-33-The-Spirited-Investigation)
