@@ -1,19 +1,22 @@
-### ccc-rozk modules - updated 2018-04-15
+### ccc-rozk modules - updated 2018-04-20
 * CCC-ROZK-0101
   * Binder's Torment
   * Jeremy Hochhalter
   * Tier 3
   * APL 13
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment)
 * CCC-ROZK-0102
   * Zhentarim's Lament
   * Jeremy Hochhalter
   * Tier 3
   * APL 13
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament)
 * CCC-ROZK-0103
   * Necromancer's Ascent
   * Jeremy Hochhalter
   * Tier 3
   * APL 14
   * 4 Hours
+  * [dmsguild.com](http://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent)
