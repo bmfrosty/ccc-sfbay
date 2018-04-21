@@ -3,12 +3,14 @@
   * Hammer and Anvil
   * Darion Smith
   * Tier 1
+  * APL 3
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/227812/CCCODFC0101-Hammer-and-Anvil)
 * CCC-ODFC-0102
   * Black Blades, Black Wings
   * Darion Smith
   * Tier 2
+  * APL 8
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/227841/CCCODFC0102-Black-Blades-Black-Wings)
 * CCC-ODFC-0103

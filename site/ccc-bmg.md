@@ -176,7 +176,9 @@
   * AltCodes: HULB2-2
 * CCC-BMG-21
   * Winter's Sharp Bite
+  * Christopher M. Sniezak
   * Tier 2
+  * APL 8
   * 4 Hours
   * [dmsguild.com](http://www.dmsguild.com/product/225185/CCCBMG21-HULB-23-Winters-Sharp-Bite)
   * AltCodes: HULB2-3
