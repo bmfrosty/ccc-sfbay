@@ -15,7 +15,6 @@ Useful Links:
 [Adventuring Log & Online Tools](https://www.alonlinetools.net/)  
 
 * TODO
-   * More dmsguild links
    * Buy more dmsguild modules for APLs
    * More AltCodes
    * Add DDEX/DDAL/DDAO/DDIA/DDEP Modules

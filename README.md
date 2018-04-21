@@ -34,6 +34,9 @@ Pay special attention to the carriage returns.  Markdown replaces two spaces at 
 
 ## Versioning
 
+#### 0.0.11
+- Ben Longman - 2018-04-20 - Updated all dmsguild.com links
+
 #### 0.0.10
 - Ben Longman - 2018-04-14 - Fixed apostrophes, Color Codes, and alt codes for BMG modules.
 
