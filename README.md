@@ -4,20 +4,7 @@ If you want to help with this, you'll need a markdown compiler, and you should b
 
 You can find a markdown tester here - [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)  
 
-Using the following verison of markdown for compiling currently:
-
-```
-bmfrosty@STUMP:~/git/ccc-sfbay$ markdown --version
-
-This is Markdown, version 1.0.1.
-Copyright 2004 John Gruber
-http://daringfireball.net/projects/markdown/
-
-bmfrosty@STUMP:~/git/ccc-sfbay$
-```  
-
-Please be aware of the constraints implied with this version when writing your code.   
-Pay special attention to the carriage returns.  Markdown replaces two spaces at the end of a line with a `<br />` - it does not respect the backslash at the end of a line standard that github uses.  
+Using pandoc's implementation of the commonmark. [https://spec.commonmark.org/](https://spec.commonmark.org/)
 
 # Formatting
 
