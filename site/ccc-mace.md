@@ -5,11 +5,11 @@
   * Tier 1
   * APL 2
   * 4 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey)
+  * [dmsguild.com](http://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey?affiliate_id=757342)
 * CCC-MACE-02
   * A Panther's Peril
   * David Knighton
   * Tier 1
   * APL 3
   * 4 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril)
+  * [dmsguild.com](http://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril?affiliate_id=757342)

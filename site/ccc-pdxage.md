@@ -5,11 +5,11 @@
   * Tier 1
   * APL 3
   * 2 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/214453/CCCPDXAGE0101-The-White-Well)
+  * [dmsguild.com](http://www.dmsguild.com/product/214453/CCCPDXAGE0101-The-White-Well?affiliate_id=757342)
 * CCC-PDXAGE-0201
   * The Dark Hunt
   * Written by Iam Pace & William Murakami-Brundage
   * Tier 2
   * APL 6
   * 2 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/214451/CCCPDXAGE0201-The-Dark-Hunt)
+  * [dmsguild.com](http://www.dmsguild.com/product/214451/CCCPDXAGE0201-The-Dark-Hunt?affiliate_id=757342)
