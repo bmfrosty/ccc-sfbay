@@ -1,7 +1,7 @@
 ### ccc-scar modules - updated 2018-04-23
 * CCC-SCAR01-01
   * Corrupted Artery
-  * Phillip Allison
+  * Phil Allison
   * Tier 1
   * APL 3
   * 2 Hours
