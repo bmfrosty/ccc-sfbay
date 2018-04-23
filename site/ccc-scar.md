@@ -5,4 +5,4 @@
   * Tier 1
   * APL 3
   * 2 Hours
-  [dmsguild.com](https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery)
+  [dmsguild.com](https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery?affiliate_id=757342)
