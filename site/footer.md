@@ -17,4 +17,3 @@ Useful Links:\
 * TODO
    * Buy more dmsguild modules for APLs
    * More AltCodes
-   * Add DDEX/DDAL/DDIA/DDEP Modules
