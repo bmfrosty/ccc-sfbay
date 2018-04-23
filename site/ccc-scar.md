@@ -1,4 +1,4 @@
-### ccc-bmg modules - updated 2018-04-23
+### ccc-scar modules - updated 2018-04-23
 * CCC-SCAR01-01
   * Corrupted Artery
   * Phillip Allison
