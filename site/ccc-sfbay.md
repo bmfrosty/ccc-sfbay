@@ -1,49 +1,49 @@
 ### ccc-sfbay modules - updated 2018-04-15
 * CCC-SFBAY-0101
-  * Plots in Motion
-  * Jason Denton
-  * Tier 2
-  * APL 7
-  * 8 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion?affiliate_id=757342)
-  * AltCodes: CCC-SFBAY01-01 CCC-SFBAY-11 CCCSFBAY0101 CCC-SFBAY-01-01
+    * Plots in Motion
+    * Jason Denton
+    * Tier 2
+    * APL 7
+    * 8 Hours
+    * [dmsguild.com](http://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion?affiliate_id=757342)
+    * AltCodes: CCC-SFBAY01-01 CCC-SFBAY-11 CCCSFBAY0101 CCC-SFBAY-01-01
 * CCC-SFBAY-0201
-  * Old Enemies Arise
-  * Adrian Arduini
-  * Tier 2
-  * APL 8
-  * 4 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise?affiliate_id=757342)
-  * AltCodes: CCC-SFBAY-02-01 CCC-SFBAY0201 
+    * Old Enemies Arise
+    * Adrian Arduini
+    * Tier 2
+    * APL 8
+    * 4 Hours
+    * [dmsguild.com](http://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise?affiliate_id=757342)
+    * AltCodes: CCC-SFBAY-02-01 CCC-SFBAY0201 
 * CCC-SFBAY-02-02
-  * Rise of the Ogre King
-  * Adrian Arduini
-  * Tier 2
-  * APL 8
-  * ? Hours
-  * Further Details to come
+    * Rise of the Ogre King
+    * Adrian Arduini
+    * Tier 2
+    * APL 8
+    * ? Hours
+    * Further Details to come
 * CCC-SFBAY-02-03
-  * The Risen Minotaur King
-  * Further Details to come
+    * The Risen Minotaur King
+    * Further Details to come
 * CCC-SFBAY-0401
-  * The Cornflower Hive
-  * Iam Pace & William Murakami-Brundage
-  * Tier 1
-  * APL 3
-  * 4 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive?affiliate_id=757342)
-  * AltCodes: CCC-SFBAY-02-03
+    * The Cornflower Hive
+    * Iam Pace & William Murakami-Brundage
+    * Tier 1
+    * APL 3
+    * 4 Hours
+    * [dmsguild.com](http://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive?affiliate_id=757342)
+    * AltCodes: CCC-SFBAY-02-03
 * CCC-SFBAY-0402
-  * Under Earth & Stone
-  * Iam Pace & William Murakami-Brundage
-  * Tier 2
-  * APL 8
-  * 2 Hours
-  * [dmsguild.com](http://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone?affiliate_id=757342)
-  * AltCodes: CCC-SFBAY-04-02
+    * Under Earth & Stone
+    * Iam Pace & William Murakami-Brundage
+    * Tier 2
+    * APL 8
+    * 2 Hours
+    * [dmsguild.com](http://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone?affiliate_id=757342)
+    * AltCodes: CCC-SFBAY-04-02
 * CCC-SFBAY-04-03
-  * Ashen Scar
-  * Iam Pace & William Murakami-Brundage
-  * Tier 1
-  * APL 3
-  * 2 Hours
+    * Ashen Scar
+    * Iam Pace & William Murakami-Brundage
+    * Tier 1
+    * APL 3
+    * 2 Hours

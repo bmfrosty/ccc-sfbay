@@ -15,5 +15,5 @@ Useful Links:\
 [Adventuring Log & Online Tools](https://www.alonlinetools.net/)
 
 * TODO
-   * Buy more dmsguild modules for APLs
-   * More AltCodes
+     * Buy more dmsguild modules for APLs
+     * More AltCodes

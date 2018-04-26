@@ -1,8 +1,8 @@
 ### ccc-scar modules - updated 2018-04-23
 * CCC-SCAR01-01
-  * Corrupted Artery
-  * Phil Allison
-  * Tier 1
-  * APL 3
-  * 2 Hours
-  * [dmsguild.com](https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery?affiliate_id=757342)
+    * Corrupted Artery
+    * Phil Allison
+    * Tier 1
+    * APL 3
+    * 2 Hours
+    * [dmsguild.com](https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery?affiliate_id=757342)
