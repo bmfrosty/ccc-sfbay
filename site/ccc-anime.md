@@ -1,4 +1,4 @@
-### ccc-anime <a name="ccc"></a>
+### ccc-anime
 * CCC-ANIME1-1
     * Legend of the Sword Bandit Surprise
     * David Morris
