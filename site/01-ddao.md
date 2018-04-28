@@ -1,4 +1,4 @@
-### DDAO modules - updated 2018-04-21
+### DDAO
 * DDAO-01
     * Window to the Past
     * Alan Patrick

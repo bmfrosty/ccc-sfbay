@@ -1,4 +1,4 @@
-### ccc-ylra modules - updated 2018-04-20
+### ccc-ylra
 * CCC-YLRA01-01
     * Her Dying Wish
     * Jeremy Forbing

@@ -1,4 +1,4 @@
-### ccc-ucon modules - updated 2018-04-20
+### ccc-ucon
 * CCC-UCON-01
     * Blood & Fog
     * Alan Patrick

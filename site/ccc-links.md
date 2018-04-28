@@ -1,4 +1,4 @@
-### ccc-links modules - updated 2018-04-15
+### ccc-links
 * CCC-LINKS-01
     * Champion of the People
     * Alan Patrick

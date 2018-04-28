@@ -1,4 +1,4 @@
-### ccc-qcc modules - updated 2018-04-20
+### ccc-qcc
 * CCC-QCC-2017
     * Delusions of Grandeur, Dreams of Revenge
     * Scott Moore

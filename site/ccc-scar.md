@@ -1,4 +1,4 @@
-### ccc-scar modules - updated 2018-04-23
+### ccc-scar
 * CCC-SCAR01-01
     * Corrupted Artery
     * Phil Allison

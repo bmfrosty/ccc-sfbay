@@ -1,4 +1,4 @@
-### ccc-pdxage modules - updated 2018-04-20
+### ccc-pdxage
 * CCC-PDXAGE-0101
     * The White Well
     * Written by Iam Pace & William Murakami-Brundage

@@ -1,4 +1,4 @@
-### ccc-gary modules - updated 2018-04-15
+### ccc-gary
 * CCC-GARY-01
     * A Night to Remember
     * Luke Gygax and Thomas Valley

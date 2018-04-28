@@ -1,4 +1,4 @@
-### ccc-cic modules - updated 2018-04-15
+### ccc-cic
 * CCC-CIC-01
     * The Vault of the Devourer
     * Greg Marks

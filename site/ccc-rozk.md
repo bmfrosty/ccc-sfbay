@@ -1,4 +1,4 @@
-### ccc-rozk modules - updated 2018-04-20
+### ccc-rozk
 * CCC-ROZK-0101
     * Binder's Torment
     * Jeremy Hochhalter

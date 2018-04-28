@@ -1,4 +1,4 @@
-### ccc-ghc modules - updated 2018-04-15
+### ccc-ghc
 * CCC-GHC-01
     * Tharaera Lost
     * Ed Greenwood & Alex Kammer

@@ -1,4 +1,4 @@
-### ccc-anime modules - updated 2018-04-15
+### ccc-anime <a name="ccc"></a>
 * CCC-ANIME1-1
     * Legend of the Sword Bandit Surprise
     * David Morris

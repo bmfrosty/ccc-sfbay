@@ -1,4 +1,4 @@
-### ccc-mace modules - updated 2018-04-20
+### ccc-mace
 * CCC-MACE-01
     * The Blight of Geoffrey
     * David Morris

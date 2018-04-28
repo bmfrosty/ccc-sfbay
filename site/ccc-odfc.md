@@ -1,4 +1,4 @@
-### ccc-odfc modules - updated 2018-04-20
+### ccc-odfc
 * CCC-ODFC-0101
     * Hammer and Anvil
     * Darion Smith

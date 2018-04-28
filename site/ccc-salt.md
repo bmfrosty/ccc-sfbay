@@ -1,4 +1,4 @@
-### ccc-salt modules - updated 2018-04-20
+### ccc-salt
 * CCC-SALT-01-01
     * Rumors of Riches
     * David Morris

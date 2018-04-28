@@ -1,4 +1,4 @@
-### ccc-tri modules - updated 2018-04-21
+### ccc-tri
 * CCC-TRI-01 
     * Into the Darkness
     * Eric Boaen, Garrett Colón, Adam Scaramella, Mark Merida, Al Spader

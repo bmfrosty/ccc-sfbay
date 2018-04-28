@@ -1,4 +1,4 @@
-### ccc-ifk modules - updated 2018-04-15
+### ccc-ifk
 * CCC-IFK-01
     * Shadow of Greed
     * Tier 2

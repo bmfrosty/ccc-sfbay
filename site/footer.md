@@ -1,8 +1,9 @@
-Always under construction\
-[source](https://github.com/bmfrosty/ccc-sfbay)\
+[source code on github](https://github.com/bmfrosty/ccc-sfbay)\
 If you have something to add, fork it and make a PR\
 Contact me at @bmfrosty on twitter\
-Useful Links:\
+<a name="links"></a>
+
+### [Top](#top) [CCC](#ccc) Links
 [WotC's D&D Site](http://dnd.wizards.com/)\
 [Adventurer's League Player's Pack](http://www.dmsguild.com/product/208178/DD-Adventurers-League-Players-Pack?affiliate_id=757342)\
 [Adventurer's League DM Pack](http://www.dmsguild.com/product/208179/DD-Adventurers-League-DM-Pack?affiliate_id=757342)\

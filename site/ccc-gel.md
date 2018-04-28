@@ -1,4 +1,4 @@
-### ccc-gel modules - updated 2018-04-15
+### ccc-gel
 * CCC-GEL-01
     * Bedlam at the Benefit
     * Chris "Waffles" Wathen

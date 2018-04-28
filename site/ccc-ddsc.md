@@ -1,4 +1,4 @@
-### ccc-ddsc modules - updated 2018-04-15
+### ccc-ddsc
 * CCC-DDSC-01
     * Murder at the Stop
     * Robert Alaniz

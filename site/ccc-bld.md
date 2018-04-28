@@ -1,4 +1,4 @@
-### ccc-bld modules - updated 2018-04-15
+### ccc-bld
 * CCC-BLD-11
     * Bleeding Gate: Pandemonium
     * Ma'at Crook

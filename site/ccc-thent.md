@@ -1,4 +1,4 @@
-### ccc-thent modules - updated 2018-04-20
+### ccc-thent
 * CCC-THENT-0101
     * Beneath the Surface
     * Jeremy Hochhalter

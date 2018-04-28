@@ -1,4 +1,4 @@
-### ccc-sfbay modules - updated 2018-04-15
+### ccc-sfbay
 * CCC-SFBAY-0101
     * Plots in Motion
     * Jason Denton

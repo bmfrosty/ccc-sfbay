@@ -1,4 +1,4 @@
-### ccc-srcc modules - updated 2018-04-20
+### ccc-srcc
 * CCC-SRCC-0101
     * Trouble in the Old City
     * David Morris and Sean Payne
