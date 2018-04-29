@@ -4,20 +4,17 @@ If you want to help with this, you'll need a markdown compiler, and you should b
 
 You can find a markdown tester here - [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)  
 
-Using pandoc's implementation of the commonmark. [https://spec.commonmark.org/](https://spec.commonmark.org/)
+I'm using pandoc's implementation of markdown. [https://pandoc.org/MANUAL.html#pandocs-markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)
 
 # Formatting
 
-## List of (grouping) modules updated (date modified)
-* Module number (Use Content Catalog for official module number)
+```
+## grouping
+* Module number as link to module on dmsguild or notice that it's not available - altcodes (BMG and TRI so far!)
   * Title
   * Writers
-  * Tier
-  * APL
-  * module duration
-  * dmsguild link
-  * AltCodes: Code Code Code
-   
+  * Tier or Levels (like 1-2) - APL # - Length # (in hours)
+```
 
 ## Versioning
 

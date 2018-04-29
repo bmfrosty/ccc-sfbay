@@ -1,35 +1,31 @@
 ### ccc-tri
-* CCC-TRI-01 
+* [CCC-TRI-01](http://bit.ly/CCCTRI01)
     * Into the Darkness
     * Eric Boaen, Garrett Colón, Adam Scaramella, Mark Merida, Al Spader
     * Tier 3
     * APL 13
     * 4 Hours
-    * [dmsguild.com](http://bit.ly/CCCTRI01)
     * AltCodes: YUL 1-1
-* CCC-TRI-02
+* [CCC-TRI-02](http://bit.ly/CCCTRI02)
     * Impression Left Behind
     * Eric Boaen, Garrett Colón, Adam Scaramella, Al Spader
     * Tier 3
     * APL 13
     * 4 Hours
-    * [dmsguild.com](http://bit.ly/CCCTRI02)
     * AltCodes: YUL 1-2
-* CCC-TRI-03
+* [CCC-TRI-03](http://bit.ly/CCCTRI03)
     * Fences and Swords
     * James RePass
     * Tier 2
     * APL 7
     * 2 Hours
-    * [dmsguild.com](http://bit.ly/CCCTRI03)
     * AltCodes: ROC 1-1
-* CCC-TRI-04
+* [CCC-TRI-04](http://bit.ly/CCCTRI04)
     * Birds of a Feather
     * Garrett Colón
     * Tier 2
     * APL 8
     * 2 Hours
-    * [dmsguild.com](http://bit.ly/CCCTRI04)
     * AltCodes: ROC 1-2
 * CCC-TRI-05
     * Hunt of Malar
