@@ -85,7 +85,8 @@
     * Tier 4 - APL TBD - Length 4
 * DDAO-22
     * Debts Old and New
-    * Claire Hoffman - APL TBD - Length 4
+    * Claire Hoffman
+    * Tier TBA - APL TBD - Length 4
 * DDAO-23
     * Trail of Bones
     * Robert Adducci
