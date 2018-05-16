@@ -54,102 +54,87 @@
     * Onslaught
     * Author TBD
     * Tier 2 - APL 8 - Length 4
-* [CCC-BMG-13](http://www.dmsguild.com/product/189520/CCCBMG13-PHLAN-11-Sepulture?affiliate_id=757342)
+* [CCC-BMG-13](http://www.dmsguild.com/product/189520/CCCBMG13-PHLAN-11-Sepulture?affiliate_id=757342) - PHLAN1-1
     * Sepulture
     * Greg Marks
     * Tier 3 - APL 11 - Length 4
-    * AltCodes: PHLAN1-1
-* [CCC-BMG-14](http://www.dmsguild.com/product/189522/CCCBMG14-PHLAN-12-Enemy-of-my-Enemy?affiliate_id=757342)
+* [CCC-BMG-14](http://www.dmsguild.com/product/189522/CCCBMG14-PHLAN-12-Enemy-of-my-Enemy?affiliate_id=757342) - PHLAN1-2
     * Enemy of my Enemy
     * Will Doyle
     * Tier 3 - APL 12 - Length 4
-    * AltCodes: PHLAN1-2
-* [CCC-BMG-15](http://www.dmsguild.com/product/189523/CCCBMG15-PHLAN-13-Subterfuge?affiliate_id=757342)
+* [CCC-BMG-15](http://www.dmsguild.com/product/189523/CCCBMG15-PHLAN-13-Subterfuge?affiliate_id=757342) - PHLAN1-3
     * Subterfuge
     * Erik Scott de Bie
     * Tier 3 - APL 12 - Length 4
-    * AltCodes: PHLAN1-3
-* CCC-BMG-PHLAN1S
+* CCC-BMG-PHLAN1S - PHLAN1-S
     * Uprising
     * Author TBD
     * Tier 3 - APL TBD - Length 4
-    * AltCodes: PHLAN1-S
-* [CCC-BMG-16](http://www.dmsguild.com/product/203366/CCCBMG16-ELM-11-The-Sage-of-Cormanthor?affiliate_id=757342)
+* [CCC-BMG-16](http://www.dmsguild.com/product/203366/CCCBMG16-ELM-11-The-Sage-of-Cormanthor?affiliate_id=757342) - ELM1-1
     * The Sage of Cormanthor
     * Jason Gonding, Eric Menge, Ben Heisler, and Paige Leitman
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: ELM1-1
-* [CCC-BMG-17](http://www.dmsguild.com/product/204921/CCCBMG17-ELM-12-The-Lost-Sanctum?affiliate_id=757342)
+* [CCC-BMG-17](http://www.dmsguild.com/product/204921/CCCBMG17-ELM-12-The-Lost-Sanctum?affiliate_id=757342) - ELM1-2
     * The Lost Sanctum
     * Ben Heisler & Paige Leitman
     * Tier 2 - APL 7 - Length 4
-    * AltCodes: ELM1-2
-* [CCC-BMG-18](http://www.dmsguild.com/product/204922/CCCBMG18-ELM-13-The-Battle-of-Elmwood?affiliate_id=757342)
+* [CCC-BMG-18](http://www.dmsguild.com/product/204922/CCCBMG18-ELM-13-The-Battle-of-Elmwood?affiliate_id=757342) - ELM1-3
     * The Battle of Elmwood
     * Dave Brainard, Ben Heisler, and Paige Leitman
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: ELM1-3
-* [CCC-BMG-19](http://www.dmsguild.com/product/225183/CCCBMG19-HULB21-Winters-Frosty-Kiss?affiliate_id=757342)
+* [CCC-BMG-19](http://www.dmsguild.com/product/225183/CCCBMG19-HULB21-Winters-Frosty-Kiss?affiliate_id=757342) - HULB2-1
     * Winter's Frosty Kiss
     * Pieter Sleijpen
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB2-1
-* [CCC-BMG-20](http://www.dmsguild.com/product/225184/CCCBMG20-HULB-22-Winters-Frigid-Wrath?affiliate_id=757342)
+* [CCC-BMG-20](http://www.dmsguild.com/product/225184/CCCBMG20-HULB-22-Winters-Frigid-Wrath?affiliate_id=757342) - HULB2-2
     * Winter's Frigid Wrath
     * Rich Lescouflair
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB2-2
-* [CCC-BMG-21](http://www.dmsguild.com/product/225185/CCCBMG21-HULB-23-Winters-Sharp-Bite?affiliate_id=757342)
+* [CCC-BMG-21](http://www.dmsguild.com/product/225185/CCCBMG21-HULB-23-Winters-Sharp-Bite?affiliate_id=757342) - HULB2-3
     * Winter's Sharp Bite
     * Christopher M. Sniezak
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB2-3
-* CCC-BMG-HULB2S
+* CCC-BMG-HULB2S - HULB2-S
     * Winter's Feast
     * Author TBD
     * Tier 2 - APL TBD - Length 4
-    * AltCodes: HULB2-S
-* [CCC-BMG-22](http://www.dmsguild.com/product/230627/CCCBMG22-PHLAN-21-Demagogue?affiliate_id=757342)
+* [CCC-BMG-22](http://www.dmsguild.com/product/230627/CCCBMG22-PHLAN-21-Demagogue?affiliate_id=757342) - PHLAN2-1
     * Demagogue
     * Robert Alaniz
     * Tier 3 - APL 15 - Length 4
-    * AltCodes: PHLAN2-1
-* [CCC-BMG-23](http://www.dmsguild.com/product/230628/CCCBMG23-PHLAN-22-Hatemaster?affiliate_id=757342)
+* [CCC-BMG-23](http://www.dmsguild.com/product/230628/CCCBMG23-PHLAN-22-Hatemaster?affiliate_id=757342) - PHLAN2-2
     * Hatemaster
     * Jen Middleton
     * Tier 3 - APL 15 - Length 4
-    * AltCodes: PHLAN2-2
-* [CCC-BMG-24](http://www.dmsguild.com/product/230629/CCCBMG24-PHLAN-23-The-Royal-We?affiliate_id=757342)
+* [CCC-BMG-24](http://www.dmsguild.com/product/230629/CCCBMG24-PHLAN-23-The-Royal-We?affiliate_id=757342) - PHLAN2-3
     * The Royal We
     * Eric Menge
     * Tier 3 - APL 15 - Length 4
-    * AltCodes: PHLAN2-3
-* CCC-BMG-PHLAN2S
+* CCC-BMG-PHLAN2S - PHLAN2-S
     * Damnation
     * Anthony Caroselli
     * Tier 3 - APL TBD - Length 4
-    * AltCodes: PHLAN2-S
-* [CCC-BMG-25](http://www.dmsguild.com/product/239572/CCCBMG25-CORE31-The-Spectral-Incursion?affiliate_id=757342)
+* [CCC-BMG-25](http://www.dmsguild.com/product/239572/CCCBMG25-CORE31-The-Spectral-Incursion?affiliate_id=757342) - CORE3-1
     * The Spectral Incursion
     * John Rogers and Shawn Merwin
     * Tier 1 - APL 1 - Length 4
-* [CCC-BMG-26](http://www.dmsguild.com/product/239577/CCCBMG26-CORE-32-The-Ghostly-Infestation?affiliate_id=757342)
+* [CCC-BMG-26](http://www.dmsguild.com/product/239577/CCCBMG26-CORE-32-The-Ghostly-Infestation?affiliate_id=757342) - CORE3-2
     * The Ghostly Infestation
     * Dan Dillon
     * Tier 1 - APL 2 - Length 4
-* [CCC-BMG-27](http://www.dmsguild.com/product/239578/CCCBMG27-CORE-33-The-Spirited-Investigation?affiliate_id=757342)
+* [CCC-BMG-27](http://www.dmsguild.com/product/239578/CCCBMG27-CORE-33-The-Spirited-Investigation?affiliate_id=757342) - CORE3-3
     * The Spirited Investigation
     * Tom Lommel
     * Tier 1 - APL 3 - Length 4
-* [CCC-BMG-28](http://www.dmsguild.com/product/240059/CCCBMG28-Hill-21-The-Red-Gathering?affiliate_id=757342)
+* [CCC-BMG-28](http://www.dmsguild.com/product/240059/CCCBMG28-Hill-21-The-Red-Gathering?affiliate_id=757342) - HILL2-1
     * The Red Gathering
     * Mark Merida
     * Tier 2 - APL 8 - Length 4
-* [CCC-BMG-29](http://www.dmsguild.com/product/240422/CCCBMG29-Hill-22-The-Red-Herring?affiliate_id=757342)
+* [CCC-BMG-29](http://www.dmsguild.com/product/240422/CCCBMG29-Hill-22-The-Red-Herring?affiliate_id=757342) - HILL2-2
     * The Red Herring
     * Chris Sniezak, Mark Knapik, Mark Merida, Wayne Chang
     * Tier 2 - APL 8 - Length 4
-* [CCC-BMG-30](http://www.dmsguild.com/product/240423/CCCBMG30-Hill-23-The-Red-Death?affiliate_id=757342)
+* [CCC-BMG-30](http://www.dmsguild.com/product/240423/CCCBMG30-Hill-23-The-Red-Death?affiliate_id=757342) - HILL2-3
     * The Red Death
     * Chris Sniezak, Wayne Chang
     * Tier 2 - APL 8 - Length 4
