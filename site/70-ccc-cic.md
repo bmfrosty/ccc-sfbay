@@ -18,7 +18,7 @@
 * [CCC-CIC-05](http://www.dmsguild.com/product/238300/CCCCIC05-Donum-Vitae?affiliate_id=757342)
     * Donum Vitae
     * Rob Silva
-    * Tier 2 - APL TBD - Length 4
+    * Tier 2 - APL 8 - Length 4
 * [CCC-CIC-06](http://www.dmsguild.com/product/238181/CCCCIC06-End-of-the-Line?affiliate_id=757342)
     * End of the Line
     * Michael Maenza

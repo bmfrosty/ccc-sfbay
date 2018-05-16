@@ -1,72 +1,59 @@
 ### ccc-bmg
-* [CCC-BMG-01](http://www.dmsguild.com/product/184998/CCCBMG01-CORE-11-A-Scream-in-the-Night?affiliate_id=757342)
+* [CCC-BMG-01](http://www.dmsguild.com/product/184998/CCCBMG01-CORE-11-A-Scream-in-the-Night?affiliate_id=757342) - CORE1-1
     * A Scream in the Night
     * M. Sean Molley
     * Tier 1 - APL 1 - Length 4
-    * AltCodes: CORE1-1
-* [CCC-BMG-02](http://www.dmsguild.com/product/185274/CCCBMG02-CORE-12-A-Cog-in-the-Wheel?affiliate_id=757342)
+* [CCC-BMG-02](http://www.dmsguild.com/product/185274/CCCBMG02-CORE-12-A-Cog-in-the-Wheel?affiliate_id=757342) - CORE1-2
     * A Cog in the Wheel
     * Pieter Sleijpen
     * Tier 1 - APL 2 - Length 4
-    * AltCodes: CORE1-2
-* [CCC-BMG-03](http://www.dmsguild.com/product/185275/CCCBMG03-CORE-13-A-Hole-in-the-World?affiliate_id=757342)
+* [CCC-BMG-03](http://www.dmsguild.com/product/185275/CCCBMG03-CORE-13-A-Hole-in-the-World?affiliate_id=757342) - CORE1-3
     * A Hole in the World
     * Christopher Sniezak
     * Tier 1 - APL 3 - Length 4
-    * AltCodes: CORE1-3
-* [CCC-BMG-04](http://www.dmsguild.com/product/189087/CCCBMG04-CORE-21-Tales-of-Good--Evil?affiliate_id=757342)
+* [CCC-BMG-04](http://www.dmsguild.com/product/189087/CCCBMG04-CORE-21-Tales-of-Good--Evil?affiliate_id=757342) - CORE2-1
     * Tales of Good & Evil
     * James Introcaso
     * Tier 1 - APL 3 - Length 4
-    * AltCodes: CORE2-1
-* [CCC-BMG-05](http://www.dmsguild.com/product/189088/CCCBMG05-CORE-22-Songs-of-Law--Chaos?affiliate_id=757342)
+* [CCC-BMG-05](http://www.dmsguild.com/product/189088/CCCBMG05-CORE-22-Songs-of-Law--Chaos?affiliate_id=757342) - CORE2-2
     * Songs of Law & Chaos
     * Alan Patrick
     * Tier 1 - APL 3 - Length 4
-    * AltCodes: CORE2-2
-* [CCC-BMG-06](http://www.dmsguild.com/product/189089/CCCBMG06-CORE-23-Edicts-of-Neutrality?affiliate_id=757342)
+* [CCC-BMG-06](http://www.dmsguild.com/product/189089/CCCBMG06-CORE-23-Edicts-of-Neutrality?affiliate_id=757342) - CORE 2-3
     * Edicts of Neutrality
     * Derek Myers
     * Tier 1 - APL 3 - Length 4
-    * AltCodes: CORE2-3
-* [CCC-BMG-07](http://www.dmsguild.com/product/189329/CCCBMG07-HULB-11-Hulburg-Rebuilding?affiliate_id=757342)
+* [CCC-BMG-07](http://www.dmsguild.com/product/189329/CCCBMG07-HULB-11-Hulburg-Rebuilding?affiliate_id=757342) - HULB 1-1
     * Hulburg Rebuilding
     * Dave Zajac
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB1-1
-* [CCC-BMG-08](http://www.dmsguild.com/product/189330/CCCBMG08-HULB-12-Hulburg-Burning?affiliate_id=757342)
+* [CCC-BMG-08](http://www.dmsguild.com/product/189330/CCCBMG08-HULB-12-Hulburg-Burning?affiliate_id=757342) - HULB1-2
     * Hulburg Burning
     * Mickey Tan
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB1-2
-* [CCC-BMG-09](http://www.dmsguild.com/product/189331/CCCBMG09-HULB-13-Hulburg-Rising?affiliate_id=757342)
+* [CCC-BMG-09](http://www.dmsguild.com/product/189331/CCCBMG09-HULB-13-Hulburg-Rising?affiliate_id=757342) - HULB-13
     * Hulburg Rising
     * Merric Blackman
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HULB1-3
-* CCC-BMG-HULB1S
+* CCC-BMG-HULB1S - HULB1-S
     * Extinction
     * Tier 2 - APL TBD - Length 4
-    * AltCodes: HULB1-S
-* [CCC-BMG-10](http://www.dmsguild.com/product/184953/CCCBMG10-HILL-11-Arrival?affiliate_id=757342)
+* [CCC-BMG-10](http://www.dmsguild.com/product/184953/CCCBMG10-HILL-11-Arrival?affiliate_id=757342) - HILL1-1
     * Arrival
     * Jay Africa
     * Tier 2 - APL 6 - Length 4
-    * AltCodes: HILL1-1
-* [CCC-BMG-11](http://www.dmsguild.com/product/184994/CCCBMG11-HILL-12-Exodus?affiliate_id=757342)
+* [CCC-BMG-11](http://www.dmsguild.com/product/184994/CCCBMG11-HILL-12-Exodus?affiliate_id=757342) - HILL1-2
     * Exodus
     * Scott Moore
     * Tier 2 - APL 7 - Length 4
-    * AltCodes: HILL1-2
-* [CCC-BMG-12](http://www.dmsguild.com/product/185273/CCCBMG12-HILL-13-Resurgence?affiliate_id=757342)
+* [CCC-BMG-12](http://www.dmsguild.com/product/185273/CCCBMG12-HILL-13-Resurgence?affiliate_id=757342) - HILL1-3
     * Resurgence
     * Cindy Moore
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HILL1-3
-* CCC-BMG-HILL1S
+* CCC-BMG-HILL1S - HILL1-S
     * Onslaught
+    * Author TBD
     * Tier 2 - APL 8 - Length 4
-    * AltCodes: HILL1-S
 * [CCC-BMG-13](http://www.dmsguild.com/product/189520/CCCBMG13-PHLAN-11-Sepulture?affiliate_id=757342)
     * Sepulture
     * Greg Marks
@@ -125,17 +112,17 @@
 * [CCC-BMG-22](http://www.dmsguild.com/product/230627/CCCBMG22-PHLAN-21-Demagogue?affiliate_id=757342)
     * Demagogue
     * Robert Alaniz
-    * Tier 3 - APL TBD - Length 4
+    * Tier 3 - APL 15 - Length 4
     * AltCodes: PHLAN2-1
 * [CCC-BMG-23](http://www.dmsguild.com/product/230628/CCCBMG23-PHLAN-22-Hatemaster?affiliate_id=757342)
     * Hatemaster
     * Jen Middleton
-    * Tier 3 - APL TBD - Length 4
+    * Tier 3 - APL 15 - Length 4
     * AltCodes: PHLAN2-2
 * [CCC-BMG-24](http://www.dmsguild.com/product/230629/CCCBMG24-PHLAN-23-The-Royal-We?affiliate_id=757342)
     * The Royal We
     * Eric Menge
-    * Tier 3 - APL TBD - Length 4
+    * Tier 3 - APL 15 - Length 4
     * AltCodes: PHLAN2-3
 * CCC-BMG-PHLAN2S
     * Damnation

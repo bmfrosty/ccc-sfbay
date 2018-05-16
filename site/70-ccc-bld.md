@@ -9,5 +9,5 @@
     * Tier 1 - APL 3 - Length 2
 * [CCC-BLD-0103](http://www.dmsguild.com/product/231700/CCCBLD-0103-Bleeding-Gate-Lineage?affiliate_id=757342)
     * Bleeding Gate: Lineage
-    * Author TBD
-    * Tier 2 - APL TBD - Length 4
+    * Ma'at Crook
+    * Tier 2 - APL 7 - Length 4
