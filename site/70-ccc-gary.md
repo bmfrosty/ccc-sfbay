@@ -14,15 +14,15 @@
 * [CCC-GARY-04](http://www.dmsguild.com/product/238303/CCCGARY04-The-Darkness-of-the-Mountains?affiliate_id=757342)
     * A Darkness in the Mountains
     * Thomas Valley
-    * Tier 1 - APL TBD - Length 2
+    * Tier 1 - APL 3 - Length 2
 * [CCC-GARY-05](http://www.dmsguild.com/product/238352/CCCGARY05-The-Shadows-of-the-Trees?affiliate_id=757342)
     * The Shadows of the Trees
     * Joe Alfano
-    * Tier 1 - APL TBD - Length 2
+    * Tier 1 - APL 3 - Length 2
 * [CCC-GARY-06](http://www.dmsguild.com/product/238356/CCCGARY06-The-Death-Beneath-the-Roots?affiliate_id=757342)
     * The Death Beneath the Roots
     * Joe Alfano
-    * Tier 1 - APL TBD - Length 2
+    * Tier 1 - APL 3 - Length 2
 * [CCC-GARY-07](http://www.dmsguild.com/product/238358/CCCGARY07-The-Mirror-Cities-of-Gulthias?affiliate_id=757342)
     * The Mirror Cities of Gulthias
     * Thomas Valley

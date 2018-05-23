@@ -12,5 +12,5 @@ case "$1" in
             exit 1
 esac
 
-pandoc --template other/template.html -s -i site/*md       | gzip -9 | aws s3 cp - s3://$BUCKET/index.html --acl public-read --content-type text/html --content-encoding gzip
+pandoc --template other/template.html -s -i site/*md       | gzip -1 | aws s3 cp - s3://$BUCKET/index.html --acl public-read --content-type text/html --content-encoding gzip
 pandoc --template other/template.html -s -i other/error.md | gzip -9 | aws s3 cp - s3://$BUCKET/error.html --acl public-read --content-type text/html --content-encoding gzip

@@ -22,8 +22,8 @@
 * [CCC-CIC-06](http://www.dmsguild.com/product/238181/CCCCIC06-End-of-the-Line?affiliate_id=757342)
     * End of the Line
     * Michael Maenza
-    * Tier 1 - APL TBD - Length 4
+    * Tier 1 - APL 3 - Length 4
 * [CCC-CIC-08](http://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-Tidsoptimist?affiliate_id=757342)
     * The Last Voyage of the Woolgathering Tidsoptimist
     * Greg Marks
-    * Tier 1 - APL TBD - Length 4
+    * Tier 1 - APL 3 - Length 4
