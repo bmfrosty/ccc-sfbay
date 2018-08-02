@@ -23,7 +23,7 @@
     * Under Earth & Stone
     * Iam Pace & William Murakami-Brundage
     * Tier 2 - APL 8 - Length 2
-* CCC-SFBAY-0403
+* [CCC-SFBAY-0403](http://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar?affiliate_id=757342)
     * Ashen Scar
     * Iam Pace & William Murakami-Brundage
     * Tier 1 - APL 3 - Length 2

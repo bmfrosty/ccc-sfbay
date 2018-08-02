@@ -51,15 +51,15 @@
     * What Lies beneath Ylraphon
     * Lysa Chen
     * Tier 1 - APL 3 - Length 4
-* CCC-TRI-14 - YUL1-3
+* [CCC-TRI-14](http://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-Series?affiliate_id=757342) - YUL1-3
     * The Voice in the Night
     * Al Spader
     * Tier 3 - APL 13 - Length 4
-* CCC-TRI-15 - YUL1-4
+* [CCC-TRI-15](http://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-Series?affiliate_id=757342) - YUL1-4
     * The Dark of the Hive
     * Jeff Stevens
     * Tier 3 - APL 13 - Length 4
-* CCC-TRI-16 ALLY1-1
+* CCC-TRI-16 - ALLY1-1
     * Ph’theev, The Despondent
     * Peter Harris
     * Tier 1 - APL 3 - Length 4
