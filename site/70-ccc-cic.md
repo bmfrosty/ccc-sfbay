@@ -27,3 +27,7 @@
     * The Last Voyage of the Woolgathering Tidsoptimist
     * Greg Marks
     * Tier 1 - APL 3 - Length 4
+* [CCC-CIC-09](http://www.dmsguild.com/product/245320/CCCCIC09-Steamy-Shores-of-Danger?affiliate_id=757342)
+    * Steamy Shores of Danger
+    * Andrew Bishkinskyi
+    * Tier 1 - APL TBD - Length 2 or 4

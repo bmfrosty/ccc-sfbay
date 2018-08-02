@@ -8,7 +8,7 @@ Contact me at @bmfrosty on twitter\
 [Adventurer's League Player's Pack](http://www.dmsguild.com/product/208178/DD-Adventurers-League-Players-Pack?affiliate_id=757342)\
 [Adventurer's League DM Pack](http://www.dmsguild.com/product/208179/DD-Adventurers-League-DM-Pack?affiliate_id=757342)\
 [Adventurer's League Website](http://dndadventurersleague.org/)\
-[Elemental Evail Player's Companion](http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e?affiliate_id=757342)\
+[Elemental Evil Player's Companion](http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e?affiliate_id=757342)\
 [The Tortle Package](http://www.dmsguild.com/product/221716/Tortle-Package-5e?affiliate_id=757342)\
 [D&D Beyond - electronic 5th editon products](https://www.dndbeyond.com/)\
 [Tribality's Awesome 5th edition resource page](https://www.tribality.com/dd-5th-edition-resources/)\

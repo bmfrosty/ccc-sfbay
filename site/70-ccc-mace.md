@@ -7,3 +7,7 @@
     * A Panther's Peril
     * David Knighton
     * Tier 1 - APL 3 - Length 4
+* [CCC-MACE-03](http://www.dmsguild.com/product/244858/CCCMACE0103-Haunted-Memories?affiliate_id=757342)
+    * Haunted Memories
+    * Al Spader and Mark Anderson
+    * Tier 1 - APL 3 - Length 4
