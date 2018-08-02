@@ -15,6 +15,7 @@ Contact me at @bmfrosty on twitter\
 [Kobold Fight Club - for encounter building](http://kobold.club)\
 [Donjon - Some more useful tools](http://donjon.bin.sh/)\
 [/r/dndnext's wiki's resource list](https://www.reddit.com/r/dndnext/wiki/resourcelist)\
+[Adventurer's League Log](https://www.adventurersleaguelog.com/)\
 [Adventuring Log & Online Tools](https://www.alonlinetools.net/)
 
 * TODO
