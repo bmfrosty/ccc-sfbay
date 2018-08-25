@@ -138,3 +138,15 @@
     * The Red Death
     * Chris Sniezak, Wayne Chang
     * Tier 2 - APL 8 - Length 4
+* [CCC-BMG-31](http://www.dmsguild.com/product/247511/CCCBMG31-PHLAN-31-The-Conventicle-of-Chaos?affiliate_id=757342) - PHLAN3-1
+    * The Conventicle of Chaos
+    * M.T. Black
+    * Tier 1 - APL 3 - Length 4
+* [CCC-BMG-32](http://www.dmsguild.com/product/247512/CCCBMG32-PHLAN-32-The-First-Rule?affiliate_id=757342) - PHLAN3-2
+    * The First Rule
+    * Anthony Caroselli
+    * Tier 1 - APL 3 - Length 4
+* [CCC-BMG-33](http://www.dmsguild.com/product/247513/CCCBMG33-PHLAN-33-Spinning-on-the-Edge?affiliate_id=757342) - PHLAN3-3
+    * Spinning on the Edge
+    * Ruty Rutenberg
+    * Tier 1 - APL 3 - Length 4

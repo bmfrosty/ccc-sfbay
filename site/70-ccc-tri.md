@@ -71,3 +71,7 @@
     * Pros & Cons
     * James RePass
     * Tier 1 - APL 1 - Length 2
+* [CCC-TRI-19](http://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series?affiliate_id=757342) - DEAD1-1
+    * Dead Men's Tales
+    * Jeff C. Stevens
+    * Tier 1 - APL 3 - Length 4

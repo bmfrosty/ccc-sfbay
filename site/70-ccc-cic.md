@@ -23,6 +23,10 @@
     * End of the Line
     * Michael Maenza
     * Tier 1 - APL 3 - Length 4
+* [CCC-CIC-07](http://www.dmsguild.com/product/248551/CCCCIC07-Pieces-of-You?affiliate_id=757342)
+    * Pieces of You
+    * Rob Silva
+    * Tier 2 - APL TBD - Length 4
 * [CCC-CIC-08](http://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-Tidsoptimist?affiliate_id=757342)
     * The Last Voyage of the Woolgathering Tidsoptimist
     * Greg Marks
